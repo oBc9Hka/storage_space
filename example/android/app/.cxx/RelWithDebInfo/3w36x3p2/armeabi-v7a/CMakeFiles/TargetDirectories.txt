@@ -1,0 +1,2 @@
+/Users/oleg/Documents/flutter_projects/storage_space/example/android/app/.cxx/RelWithDebInfo/3w36x3p2/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/oleg/Documents/flutter_projects/storage_space/example/android/app/.cxx/RelWithDebInfo/3w36x3p2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
